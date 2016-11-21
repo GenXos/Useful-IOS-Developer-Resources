@@ -50,6 +50,8 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 [Paletton - The Color Scheme Designer](http://paletton.com/)
 
+[Google Material Design - Color](https://material.google.com/style/color.html)
+
 ###### Inspiration
 [UI Movement - The best UI design inspiration, everyday ](https://uimovement.com/)
 
