@@ -5,6 +5,7 @@ Useful resources for IOS Developers
 ### Section 2 - Design
 ### Section 3 - Swift 3
 ### Section 4 - IOS Sites / Blogs
+### Section 99 - Miscellaneous Usefulness
 ---
 
 #### Section 1 - Application Marketing
@@ -40,3 +41,5 @@ Useful resources for IOS Developers
 
 ---
 
+#### Section 99 - Miscellaneous Usefulness
+[One Signal - Multi-Platform Push Notification Service](https://onesignal.com/ "High volume, cross platform push notification delivery")
