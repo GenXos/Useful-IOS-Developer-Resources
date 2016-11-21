@@ -4,7 +4,7 @@ Useful resources for IOS Developers
 ### Section 1 - Application Marketing
 ### Section 2 - Design
 ### Section 3 - Swift 3
-### Section 4 - IOS Sites/Blogs
+### Section 4 - IOS Sites / Blogs
 ---
 
 #### Section 1 - Application Marketing
