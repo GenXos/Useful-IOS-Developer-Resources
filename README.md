@@ -28,8 +28,6 @@ Useful resources for IOS Developers
 ###### Books
 [App Development With Swift](https://itun.es/us/aVbRcb.l)
 
----
-
 ###### Firebase
 [Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
 
