@@ -10,6 +10,8 @@ Useful resources for IOS Developers
 #### Section 1 - Application Marketing
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
+[App Launch Checklist - Branch Metrics](https://branch.io/resources/app-launch-checklist/#)
+
 ---
 
 #### Section 2 - Design
