@@ -26,6 +26,8 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 ###### Firebase
 [Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
 
+[Firechat - Firechat is a simple, extensible chat widget powered by Firebase](https://github.com/firebase/firechat)
+
 ---
 
 #### Section 3 - Application Marketing
@@ -69,7 +71,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 #### Section 5 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 
-[Fragmented - An Android Developer Podcast](http://fragmentedpodcast.com/)
+
 
 ---
 
