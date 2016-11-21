@@ -31,6 +31,9 @@ Useful resources for IOS Developers
 ###### Books
 [Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
 
+###### MISC
+[The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
 ---
 
 #### Section 3 - Swift 3
