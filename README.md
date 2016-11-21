@@ -14,6 +14,8 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 [MockupPhone - MockuPhone wraps screenshots in device mockups!](http://mockuphone.com)
 
+
+###### Miscellaneous
 [App Launch Checklist - Branch Metrics](https://branch.io/resources/app-launch-checklist/# "Generate a customized launch plan to save and share with others")
 
 
@@ -37,7 +39,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 ###### Books
 [Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
 
-###### MISC
+###### Miscellaneous
 [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
 ---
