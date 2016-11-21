@@ -25,6 +25,9 @@ Useful resources for IOS Developers
 
 [Paletton - The Color Scheme Designer](http://paletton.com/)
 
+###### Books
+[Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
+
 ---
 
 #### Section 3 - Swift 3
