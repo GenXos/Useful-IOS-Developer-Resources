@@ -70,6 +70,11 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 ---
 
+#### Section 5 - API's
+[Darksky Weather API](https://darksky.net/dev/ "formerly forecast.io")
+
+---
+
 #### Section 99 - Miscellaneous Usefulness
 [One Signal - Multi-Platform Push Notification Service](https://onesignal.com/ "High volume, cross platform push notification delivery")
 
