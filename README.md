@@ -5,7 +5,7 @@ Useful resources for IOS Developers
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
 ## Section 2 - Design
-[Coolers](https://coolors.co/ "The super fast color schemes generator")
+[Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
 
 ## Section 2 - Swift 3
 #### Books
