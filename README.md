@@ -1,14 +1,31 @@
 # Useful-IOS-Developer-Resources
 Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels (and other places)
 
-### Section 1 - Application Marketing
-### Section 2 - Design
-### Section 3 - Swift 3
-### Section 4 - IOS Sites / Blogs
+### Section 1 - XCode
+### Section 2 - Swift 3
+### Section 3 - Application Marketing
+### Section 4 - Design
+### Section 5 - IOS Sites / Blogs
 ### Section 99 - Miscellaneous Usefulness (or not yet categorized)
 ---
 
-#### Section 1 - Application Marketing
+#### Section 1 - XCode 8
+[.gitignore.io - Create useful .gitignore files for your project](https://www.gitignore.io/)
+
+---
+
+#### Section 2 - Swift 3
+###### Books
+[App Development With Swift](https://itun.es/us/aVbRcb.l)
+
+[Core Data by Tutorials](https://www.raywenderlich.com/145692/core-data-by-tutorials-updated-for-swift-3-and-ios-10)
+
+###### Firebase
+[Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
+
+---
+
+#### Section 3 - Application Marketing
 ###### Screenshots
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
@@ -21,7 +38,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 ---
 
-#### Section 2 - Design
+#### Section 4 - Design
 ###### Color Palettes
 [Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
 
@@ -41,17 +58,6 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 ###### Miscellaneous
 [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
-
----
-
-#### Section 3 - Swift 3
-###### Books
-[App Development With Swift](https://itun.es/us/aVbRcb.l)
-
-[Core Data by Tutorials](https://www.raywenderlich.com/145692/core-data-by-tutorials-updated-for-swift-3-and-ios-10)
-
-###### Firebase
-[Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
 
 ---
 
