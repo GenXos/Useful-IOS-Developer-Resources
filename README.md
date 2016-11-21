@@ -14,8 +14,8 @@ Useful resources for IOS Developers
 [Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
 
 ## Section 3 - Swift 3
-#### Books
+###### Books
 [App Development With Swift](https://itun.es/us/aVbRcb.l)
 
-#### Firebase
+###### Firebase
 [Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
