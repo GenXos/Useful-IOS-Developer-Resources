@@ -11,7 +11,10 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 #### Section 1 - Application Marketing
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
+[MockupPhone - MockuPhone wraps screenshots in device mockups!](http://mockuphone.com)
+
 [App Launch Checklist - Branch Metrics](https://branch.io/resources/app-launch-checklist/# "Generate a customized launch plan to save and share with others")
+
 
 ---
 
