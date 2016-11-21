@@ -1,9 +1,9 @@
 # Useful-IOS-Developer-Resources
 Useful resources for IOS Developers
 
-## 1. Section 1 - Application Marketing
-## 2. Section 2 - Design
-## 3. Section 3 - Swift 3
+### 1. Section 1 - Application Marketing
+### 2. Section 2 - Design
+### 3. Section 3 - Swift 3
   1. Books
   2. Firebase
 
