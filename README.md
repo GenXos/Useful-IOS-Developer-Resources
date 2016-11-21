@@ -6,6 +6,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 ### Section 3 - Application Marketing
 ### Section 4 - Design
 ### Section 5 - IOS Sites / Blogs
+### Section 6 - API's
 ### Section 99 - Miscellaneous Usefulness (or not yet categorized)
 ---
 
@@ -65,12 +66,12 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 ---
 
-#### Section 4 - IOS Sites / Blogs
+#### Section 5 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 
 ---
 
-#### Section 5 - API's
+#### Section 6 - API's
 [Darksky Weather API](https://darksky.net/dev/ "formerly forecast.io")
 
 ---
