@@ -5,6 +5,7 @@ Useful resources for IOS Developers
 ### Section 2 - Design
 ### Section 3 - Swift 3
 ### Section 4 - IOS Sites / Blogs
+### Section 98 - Tools
 ### Section 99 - Miscellaneous Usefulness
 ---
 
@@ -49,6 +50,11 @@ Useful resources for IOS Developers
 
 #### Section 4 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
+
+---
+
+#### Section 98 - Tools
+[Diff Tools on Mac OS X](https://www.git-tower.com/blog/diff-tools-mac/)
 
 ---
 
