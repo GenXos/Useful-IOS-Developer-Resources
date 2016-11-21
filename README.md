@@ -69,6 +69,8 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 #### Section 5 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 
+[Fragmented - An Android Developer Podcast](http://fragmentedpodcast.com/)
+
 ---
 
 #### Section 6 - API's
