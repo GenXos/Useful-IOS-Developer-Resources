@@ -1,5 +1,6 @@
 # Useful-IOS-Developer-Resources
 Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels (and other places)
+
 This repository was started November 21, 2016
 
 ### Section 1 - XCode
