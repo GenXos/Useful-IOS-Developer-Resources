@@ -5,7 +5,7 @@ Useful resources for IOS Developers
 ### Section 2 - Design
 ### Section 3 - Swift 3
 ### Section 4 - IOS Sites / Blogs
-### Section 99 - Miscellaneous Usefulness
+### Section 99 - Miscellaneous Usefulness (or not yet categorized)
 ---
 
 #### Section 1 - Application Marketing
