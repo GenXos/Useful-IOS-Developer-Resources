@@ -1,5 +1,5 @@
 # Useful-IOS-Developer-Resources
-Useful resources for IOS Developers
+Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels (and other places)
 
 ### Section 1 - Application Marketing
 ### Section 2 - Design
