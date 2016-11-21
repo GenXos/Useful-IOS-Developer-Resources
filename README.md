@@ -11,6 +11,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 
 #### Section 1 - XCode 8
 [.gitignore.io - Create useful .gitignore files for your project](https://www.gitignore.io/)
+
 [github article - Tracking the progress of your work with projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/)
 
 ---
