@@ -12,7 +12,12 @@ Useful resources for IOS Developers
 
 #### Section 2 - Design
 [Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
+
 [Adobe Color Wheel - Color Schemes](https://color.adobe.com/)
+
+[Pictaculous - A Color Palette Generator](http://www.pictaculous.com/)
+
+[Paletton - The Color Scheme Designer](http://paletton.com/)
 
 #### Section 3 - Swift 3
 ###### Books
