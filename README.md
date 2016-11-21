@@ -5,6 +5,8 @@ Useful resources for IOS Developers
 ### 2. Section 2 - Design
 ### 3. Section 3 - Swift 3
 
+---
+
 #### Section 1 - Application Marketing
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
