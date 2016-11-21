@@ -28,6 +28,8 @@ Useful resources for IOS Developers
 ###### Inspiration
 [UI Movement - The best UI design inspiration, everyday ](https://uimovement.com/)
 
+[PATTERNS - Mobile design Patterns](http://pttrns.com/)
+
 ###### Books
 [Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
 
