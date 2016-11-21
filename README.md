@@ -5,7 +5,6 @@ Useful resources for IOS Developers
 ### Section 2 - Design
 ### Section 3 - Swift 3
 ### Section 4 - IOS Sites / Blogs
-### Section 98 - Tools
 ### Section 99 - Miscellaneous Usefulness
 ---
 
@@ -53,10 +52,7 @@ Useful resources for IOS Developers
 
 ---
 
-#### Section 98 - Tools
-[Diff Tools on Mac OS X](https://www.git-tower.com/blog/diff-tools-mac/)
-
----
-
 #### Section 99 - Miscellaneous Usefulness
 [One Signal - Multi-Platform Push Notification Service](https://onesignal.com/ "High volume, cross platform push notification delivery")
+
+[Diff Tools on Mac OS X](https://www.git-tower.com/blog/diff-tools-mac/)
