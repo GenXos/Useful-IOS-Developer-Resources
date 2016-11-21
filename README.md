@@ -4,7 +4,7 @@ Useful resources for IOS Developers
 ### Section 1 - Application Marketing
 ### Section 2 - Design
 ### Section 3 - Swift 3
-
+### Section 4 - IOS Sites/Blogs
 ---
 
 #### Section 1 - Application Marketing
@@ -34,3 +34,9 @@ Useful resources for IOS Developers
 [Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching](Chaty - Anonymous chat app leveraging Google's Firebase, a NoSQL backend and WebSocket for real time data synching)
 
 ---
+
+#### Section 4 - Blogs / Sites
+[Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
+
+---
+
