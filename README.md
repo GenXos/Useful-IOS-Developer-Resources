@@ -3,6 +3,7 @@ Useful resources for IOS Developers
 
 ### 1. Section 1 - Application Marketing
 ### 2. Section 2 - Design
+  1. Color Palettes
 ### 3. Section 3 - Swift 3
   1. Books
   2. Firebase
@@ -11,6 +12,7 @@ Useful resources for IOS Developers
 [AppInstitute's App Screenshot Creator](AppInstitute's App Screenshot Creator)
 
 #### Section 2 - Design
+###### Color Palettes
 [Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
 
 [Adobe Color Wheel - Color Schemes](https://color.adobe.com/)
