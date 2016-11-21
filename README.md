@@ -71,6 +71,7 @@ Useful resources for IOS Developers Gleaned from the Devslopes Discord Channels 
 #### Section 5 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 
+[We Heart Swift - Swift and iOS tutorials, articles, books and more](https://www.weheartswift.com/)
 
 
 ---
