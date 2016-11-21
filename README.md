@@ -56,3 +56,5 @@ Useful resources for IOS Developers
 [One Signal - Multi-Platform Push Notification Service](https://onesignal.com/ "High volume, cross platform push notification delivery")
 
 [Diff Tools on Mac OS X](https://www.git-tower.com/blog/diff-tools-mac/)
+
+[Using Realm and Charts with Swift 3 in iOS 10 - Sami Korpela](https://medium.com/@skoli/using-realm-and-charts-with-swift-3-in-ios-10-40c42e3838c0#.8b0sy4brm)
