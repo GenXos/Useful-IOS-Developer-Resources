@@ -35,7 +35,7 @@ Useful resources for IOS Developers
 
 ---
 
-#### Section 4 - Blogs / Sites
+#### Section 4 - IOS Sites / Blogs
 [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 
 ---
