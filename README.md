@@ -9,6 +9,7 @@ This repository was started November 21, 2016
 ### Section 4 - Design
 ### Section 5 - IOS Sites / Blogs
 ### Section 6 - API's
+### Section 7 - Git / Github
 ### Section 99 - Miscellaneous Usefulness (or not yet categorized)
 ---
 
@@ -100,6 +101,11 @@ This repository was started November 21, 2016
 [Pokéapi - The RESTful Pokémon API](https://pokeapi.co/ "all the Pokémon data you'll ever need, in one place")
 
 [Marvel Comics API - Marvel Developer Portal](https://developer.marvel.com/ "Create awesome stuff with the world's greatest comic api")
+
+---
+
+#### Section 7 - Git / Github
+[Github Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
 ---
 
