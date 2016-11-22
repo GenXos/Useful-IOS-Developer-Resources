@@ -107,6 +107,8 @@ This repository was started November 21, 2016
 #### Section 7 - Git / Github
 [Github Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 
+[Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/1 "Got 15 minutes and want to learn Git?")
+
 ---
 
 #### Section 99 - Miscellaneous Usefulness
