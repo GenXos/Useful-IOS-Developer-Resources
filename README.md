@@ -72,8 +72,9 @@ This repository was started November 21, 2016
 
 [The Noun Project - Icons for everything](https://thenounproject.com/ )
 
-[Google Fonts - Making the web more beautiful, fast, and open through great typography](https://fonts.google.com
-)
+[Google Fonts - Making the web more beautiful, fast, and open through great typography](https://fonts.google.com)
+
+[Freebiesbug - Free Web Design Resources](http://freebiesbug.com/)
 
 ###### Books
 [Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
