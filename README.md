@@ -62,6 +62,13 @@ This repository was started November 21, 2016
 
 [PATTERNS - Mobile design Patterns](http://pttrns.com/)
 
+###### Resources
+[Flaticon - The largest database of free vector icons](http://www.flaticon.com/ "a lot of free stuff")
+
+[Icons8 - 36000 free icons](https://icons8.com/ "The largest pack ever")
+
+[The Noun Project - Icons for everything](https://thenounproject.com/ )
+
 ###### Books
 [Affinity Designer Workbook](https://affinity.serif.com/en-us/designer/workbook/ "The official guide to Affinity Designer")
 
