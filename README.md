@@ -81,6 +81,12 @@ This repository was started November 21, 2016
 #### Section 6 - API's
 [Darksky Weather API](https://darksky.net/dev/ "formerly forecast.io")
 
+[Open Weather Map - Comprehensive weather API](https://openweathermap.org/api "Our weather API is simple, clear and free.")
+
+[Pokéapi - The RESTful Pokémon API](https://pokeapi.co/ "all the Pokémon data you'll ever need, in one place")
+
+[Marvel Comics API - Marvel Developer Portal](https://developer.marvel.com/ "Create awesome stuff with the world's greatest comic api")
+
 ---
 
 #### Section 99 - Miscellaneous Usefulness
