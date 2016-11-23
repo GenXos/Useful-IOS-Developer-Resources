@@ -16,6 +16,8 @@ This repository was started November 21, 2016
 #### Section 1 - XCode 8
 [.gitignore.io - Create useful .gitignore files for your project](https://www.gitignore.io/)
 
+[github/gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
+
 [github article - Tracking the progress of your work with projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/)
 
 ---
