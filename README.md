@@ -20,7 +20,7 @@ This repository was started November 21, 2016
 
 [github article - Tracking the progress of your work with projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/)
 
-[Visual Studio theme for XCode](http://www.flaviocorpa.com/new-visual-studio-theme-for-xcode-released/)
+[Visual Studio theme for XCode - Flavio "Kutyel" Corpa](http://www.flaviocorpa.com/new-visual-studio-theme-for-xcode-released/)
 
 ---
 
