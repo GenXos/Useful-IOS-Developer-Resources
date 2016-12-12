@@ -54,6 +54,10 @@ This repository was started November 21, 2016
 ---
 
 #### Section 4 - Design
+
+###### Tools
+[TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/ "Optimize your images with a perfect balance in quality and file size.")
+
 ###### Color Palettes
 [Coolers - The super fast color schemes generator](https://coolors.co/ "The super fast color schemes generator")
 
