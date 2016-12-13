@@ -122,6 +122,10 @@ This repository was started November 21, 2016
 ---
 
 #### Section 99 - Miscellaneous Usefulness
+[Grand Central Dispatch - AppCoda.com](http://appcoda.com/grand-central-dispatch/)
+
+[Granda Central Dispatch - Ray Wenderlich](https://www.raywenderlich.com/79149/grand-central-dispatch-tutorial-swift-part-1)
+
 [One Signal - Multi-Platform Push Notification Service](https://onesignal.com/ "High volume, cross platform push notification delivery")
 
 [Diff Tools on Mac OS X](https://www.git-tower.com/blog/diff-tools-mac/)
